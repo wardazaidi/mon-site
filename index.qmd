@@ -1,0 +1,11 @@
+---
+title: "Bienvenue"
+---
+
+# Bonjour et bienvenue sur mon site
+
+Ce site a été créé avec **Quarto** et publié sur GitHub Pages.
+
+Voici une image :
+
+![](https://via.placeholder.com/400x200)

@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs           # important pour GitHub Pages
+
+website:
+  title: "Mon portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: about.qmd
+        text: À propos
+
+format:
+  html:
+    theme: cosmo
+    toc: true
