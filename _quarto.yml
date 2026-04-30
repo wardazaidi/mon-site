@@ -10,8 +10,13 @@ website:
         text: Accueil
       - href: about.qmd
         text: À propos
+      - href: viewer3d.qmd     # <-- NOUVEAU : page pour le modèle 3D
+        text: Modèle 3D
 
 format:
   html:
     theme: cosmo
     toc: true
+    css: styles.css
+resources:
+  - assets/

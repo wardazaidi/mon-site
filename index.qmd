@@ -1,11 +1,27 @@
 ---
-title: "Bienvenue"
+title: "Mon portfolio – Ateliers 3D et photogrammétrie"
 ---
 
-# Bonjour et bienvenue sur mon site
-
-Ce site a été créé avec **Quarto** et publié sur GitHub Pages.
-
-Voici une image :
-
-![](https://via.placeholder.com/400x200)
+```{=html}
+<style>
+.hero {
+  background: linear-gradient(120deg, #1e2a3a, #0f172a);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 40px;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+</style>
+<div class="hero">
+  <h1>✨ Bienvenue sur mon portfolio</h1>
+  <p>Découvrez mes réalisations en modélisation 3D, WebGL et photogrammétrie</p>
+</div>
